@@ -14,7 +14,12 @@ Here are some ideas to get you started:
 -->
 # Hi I'm Oren 👋
 ---
-Software Engineer and Front-end developer with 7+ years of experience building apps, websites and web applications. I specialize in HTML, CSS, JavaScript, React, TypeScript, Tailwind and Next.js. I'm passionate about creating fast, responsive, and intuitive user experiences, and I love to stay up-to-date with the latest trends and best practices in web development.
+<!--Software Engineer and Front-end developer with 7+ years of experience building apps, websites and web applications. I specialize in HTML, CSS, JavaScript, React, TypeScript, Tailwind and Next.js. I'm passionate about creating fast, responsive, and intuitive user experiences, and I love to stay up-to-date with the latest trends and best practices in web development.-->
+Seasoned Software Engineer and Front-end Developer with over 7 years of expertise in crafting cutting-edge applications, websites, and web solutions. My professional journey has evolved to embrace the dynamic realms of Machine Learning and Artificial Intelligence (AI), with a focus on harnessing the power of PyTorch and TensorFlow in cloud-based environments.
+
+In addition to my core competencies in HTML, CSS, JavaScript, React, TypeScript, Tailwind, and Next.js, I've expanded my horizons to seamlessly incorporate AI capabilities into applications, ensuring enhanced user experiences that are both responsive and intuitive. My recent endeavors include deploying AI models on cloud platforms, pushing the boundaries of innovation in cloud-based AI integration. Furthermore, I've navigated the challenging landscape of embedded environments, where I've successfully harnessed the potential of Machine Learning and AI to optimize performance.
+
+With a fervent dedication to staying abreast of the latest industry trends and adhering to best practices in web development, I remain committed to delivering exceptional solutions that redefine digital experiences.
 
 <!-- 
 <p align="center">
