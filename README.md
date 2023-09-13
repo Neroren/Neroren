@@ -33,6 +33,7 @@ With a fervent dedication to staying on top of the latest industry trends and ad
   <img alt="" src="https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=python&logoColor=black" />
   <img alt="" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img alt="" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img alt="" src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
   <br/>
   
   <img alt="" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
